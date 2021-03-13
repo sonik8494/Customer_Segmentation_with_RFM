@@ -32,3 +32,8 @@ Created customer segements based on RFM (Recency, Frequency, Monetary) analysis 
 
 ### MONETARY VALUE (M): Total money this customer spent.
 
+## What business problem we can solve?
+* Sending customized mails and offers as per spend
+* Solving customer attrition
+* Offers as per seasonal buy
+
